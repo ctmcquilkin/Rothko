@@ -1,4 +1,4 @@
 Rothko
 ======
 
-Processing Sketch of Rothko painting
+Processing Sketchs based on a couple of Rothko paintings
