@@ -1,6 +1,6 @@
 // Rothko #14 in Processing
 // Chuck McQuilkin
- 
+
 void setup()
 {
   size(600, 600);
